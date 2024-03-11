@@ -244,3 +244,11 @@ footer {
     font-size: 16px;
     font-weight: 400;
 }
+
+nav ul li .fal {
+    margin-right: 30px;
+    font-size: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+}
